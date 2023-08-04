@@ -58,6 +58,7 @@ function Main() {
         <h1>welcome</h1>
         <h3>Hi, my name is chris I am an aspiring web developer,problem solver and software engineer. I have a strong understanding of the mern stack and all of its nuances This is my portfolio page which shows my personal and professional projects along with my resume and a link to my git hub I am proud of my projects Ive build and I will display them on the about page!</h3>
         <h4> Above I have included a sneak peak of one of my projects, nation schola it uses an api to show information on world nations!</h4>
+        <h5>I am passionate about geography and I have tried to integrate this passion into my code.</h5>
       </div>
      
       
