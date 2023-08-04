@@ -7,6 +7,7 @@ import Page from './Page';
 
 
 
+
 function Main() {
     const [country,setCountry]=useState('default')
   const[official,setOfficial]=useState('default')
@@ -39,6 +40,7 @@ function Main() {
   }
   return (
     <div>
+        
         <div className="App">
       <Page />
      <button onClick={receiveCountry}>country!</button>
@@ -54,8 +56,11 @@ function Main() {
       </div>
       <div className='rightDiv'>
         <h1>welcome</h1>
-        <h3>Hi, my name is chris I am an aspiring web developer,problem solver and software engineer. I have a strong understanding of the mern stack and all of its nuances This is my portfolio page which shows my personal and professional projects along with my resume and a link to my git hub</h3>
+        <h3>Hi, my name is chris I am an aspiring web developer,problem solver and software engineer. I have a strong understanding of the mern stack and all of its nuances This is my portfolio page which shows my personal and professional projects along with my resume and a link to my git hub I am proud of my projects Ive build and I will display them on the about page!</h3>
+        <h4> Above I have included a sneak peak of one of my projects, nation schola it uses an api to show information on world nations!</h4>
       </div>
+     
+      
     </div>
     </div>
       

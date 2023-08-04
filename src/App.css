@@ -18,8 +18,21 @@
 
 }
 .about{
-  font-family: romano;
+  font-family: arial;
   size: 25px;
+  color: white;
+  background: radial-gradient(circle at bottom, navy 0, black 100%);
+  height:500px;
+  text-align: center;
+
+}
+.pic2{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+.aboutLink{
+  cursor:pointer ;
 }
 .rightDiv{
   font-family: arial;

@@ -1,38 +1,32 @@
 
 
 import './App.css';
-import {useState} from 'react';
-import axios, { Axios } from 'axios';
+import React, {useState} from 'react';
+import axios from 'axios';
 import Page from './components/Page';
-import { BrowserRouter as Router, Route,Switch} from 'react-router-dom'
 import About from './components/About';
-import { Routes } from 'react-router-dom';
+import {Route, Routes} from 'react-router-dom';
 import Main from './components/Main';
+import Nav from './components/Nav';
+//import About from './components/About';
+
 
 
 function App() {
   
 //test//
+//test//
+
   
    
   return (
-    <Router>
     <div>
-      
-   
+    <Nav />
+    <Routes>
+      <Route path="/about" element={<About />}/>
+      <Route path="/" element={<Main />}/>
+    </Routes>
     </div>
-    <switch>
-      <Routes>
-        <Route path="/" element={<Main/>}/>
-        <Route path="/About" element={<About/>}/>
-      
-     
-      </Routes>
-
-    </switch>
-    
-    
-    </Router>
   );
   }
 
