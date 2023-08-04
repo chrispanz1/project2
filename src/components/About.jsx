@@ -13,6 +13,7 @@ function About() {
         <a href="https://www.linkedin.com/in/christopher-panzeri-64325227b/">Visit</a>
         <p> I also have my resume! &#9752;</p>
         <p> I am also very proud of my geo schola project! this project takes two players and asks them world geography questions!</p>
+        <p> geo schola uses vanilla java script, html and css to develop a use friendly and powerful experience!</p>
 
     </div>
     
@@ -20,6 +21,7 @@ function About() {
 }
 
 export default About
+//here//
 //here//
 //here//
 //here//

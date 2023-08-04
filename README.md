@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## This program uses axios to pull data from an API! It also uses the useState and UseEffect hooks! I used the rest country api for this project after that I used the react hooks and state to manipulate my data for the user.
+## This program uses axios to pull data from an API! It also uses the useState and UseEffect hooks! I used the rest country api for this project after that I used the react hooks and state to manipulate my data for the user. I tried to maintain and average of 5 commit per day I utilized browser router, usestate hooks and my main focus was to make sure my api was working at all points!
 
 In the project directory, you can run:
 
