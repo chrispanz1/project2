@@ -18,6 +18,7 @@ function About() {
         <a href="https://github.com/chrispanz1/Project1">Visit geo schola!</a>
         <p> I will also include the link to my Quick view atm project, This java script project mimics a real atm with all basic functions</p>
         <a href="https://github.com/chrispanz1/atmhomework">Visit atm</a>
+        <p>my resume is provided in my Linkedin page</p>
         
 
     </div>
